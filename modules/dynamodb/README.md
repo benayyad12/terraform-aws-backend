@@ -1,6 +1,7 @@
-# DynamoDB Backend Module
+# DynamoDB Backend Module here
 
 Inputs
+
 - `dynamodb_name` (string) - Name of the DynamoDB table
 - `pay_mode` (string) - Billing mode (e.g. `PAY_PER_REQUEST`)
 - `hkey` (string) - Attribute to use as the hash (partition) key for the table
